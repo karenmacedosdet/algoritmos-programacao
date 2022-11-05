@@ -1,0 +1,3 @@
+/mnt/c/Users/karen/Área de Trabalho/Workspace/Cursos/ADS/Algoritmos e Programação Estruturada/algoritmos-programacao/a1-projeto2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/karen/Área de Trabalho/Workspace/Cursos/ADS/Algoritmos e Programação Estruturada/algoritmos-programacao/a1-projeto2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/karen/Área de Trabalho/Workspace/Cursos/ADS/Algoritmos e Programação Estruturada/algoritmos-programacao/a1-projeto2/cmake-build-debug/CMakeFiles/a1_projeto2.dir

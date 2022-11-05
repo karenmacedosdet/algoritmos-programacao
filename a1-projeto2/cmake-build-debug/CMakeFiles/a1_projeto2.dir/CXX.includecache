@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/karen/Área de Trabalho/Workspace/Cursos/ADS/Algoritmos e Programação Estruturada/algoritmos-programacao/a1-projeto2/main.cpp
+iostream
+-
+
